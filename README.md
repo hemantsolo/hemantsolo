@@ -1,11 +1,11 @@
-# 👋 Hey, I'm Hemant Solo
+# 👋 Hey, I'm HemantSolo
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Expert-informational?style=flat&logo=security&color=2bbc8a)
 
 ## 🔗 Connect with Me:
 - 🌐 Website: [hemantsolo.in](https://hemantsolo.in/)
-- 🏢 Founder & CTO: [Solo Securities](https://solosecurities.in/)
-- 🎓 Academy: [Solo Securities Academy](https://academy.solosecurities.in/)
+- 🏢 Founder & CTO: [SoloSecurities](https://solosecurities.in/)
+- 🎓 Academy: [Academy By SoloSecurities](https://academy.solosecurities.in/)
 - 📄 Resume: [View Here](https://hemantsolo.in/Hemant_Resume.pdf)
 - 🐱 GitHub: [@hemantsolo](https://github.com/hemantsolo)
 - 💼 LinkedIn: [@hemantsolo](https://www.linkedin.com/in/hemantsolo/)
