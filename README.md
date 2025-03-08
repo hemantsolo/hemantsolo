@@ -34,31 +34,31 @@
 ---
 
 ## 🛡️ Cybersecurity & Hacking Skills
-- **Penetration Testing**
-- **Web, Mobile, API, Cloud & Network Security**
-- **Bug Bounty Hunting**
-- **Red Teaming & Ethical Hacking**
-- **Secure Code Auditing**
-- **Reverse Engineering**
+🔹 Penetration Testing
+🔹 Web, Mobile, API, Cloud & Network Security
+🔹 Bug Bounty Hunting
+🔹 Red Teaming & Ethical Hacking
+🔹 Secure Code Auditing
+🔹 Reverse Engineering
 
 ### 🛠️ Tools & Technologies
-- 🔹 Burp Suite
-- 🔹 Nmap
-- 🔹 Wireshark
-- 🔹 Metasploit
-- 🔹 SQLMap
-- 🔹 John the Ripper
-- 🔹 Aircrack-ng
-- 🔹 OSINT Framework
-- 🔹 Kali Linux & Parrot OS
-- 🔹 IDA Pro, Ghidra
-- 🔹 OpenVAS, Nessus
+🔹 Burp Suite
+🔹 Nmap
+🔹 Wireshark
+🔹 Metasploit
+🔹 SQLMap
+🔹 John the Ripper
+🔹 Aircrack-ng
+🔹 OSINT Framework
+🔹 Kali Linux & Parrot OS
+🔹 IDA Pro, Ghidra
+🔹 OpenVAS, Nessus
 
 ### 📜 Certifications
-- 🏆 **eJPT** (Junior Penetration Tester)
-- 🏆 **CEH - Master** (Certified Ethical Hacker - Master)
-- 🏆 **eCPPT** (Certified Professional Penetration Tester)
-- 🏆 **eWPTX** (Web Application Penetration Tester eXtreme)
+🔹 CEH - Master (Certified Ethical Hacker - Master)
+🔹 eJPT (Junior Penetration Tester)
+🔹 eCPPT (Certified Professional Penetration Tester)
+🔹 eWPTX (Web Application Penetration Tester eXtreme)
 
 ---
 
