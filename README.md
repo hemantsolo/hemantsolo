@@ -3,7 +3,7 @@
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Expert-informational?style=flat&logo=security&color=2bbc8a)
 
-- 🔭 I’m currently working as **Founder & CTO** at [SoloSecurities](https://solosecurities.com/)
+- 🔭 I’m currently working as **Senior Security Research** at [LoginSoft](https://loginsoft.com/)
 
 - 🔒 Secured: Apple, Google, Facebook, WordPress, Indian Govt., U.S. Department of Defense, and many more.  
 
