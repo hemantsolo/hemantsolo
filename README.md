@@ -13,7 +13,7 @@
 
 - 👨‍💻 More About me: [HemantSolo.in](https://hemantsolo.in/)
 
-- 📝 I write articles on security & bug bounty at [Blog.SoloSecurities](https://blog.solosecurities.com/)
+- 📝 I write articles on security & bug bounty at [hemantsolo.medium.com](https://hemantsolo.medium.com/)
 
 - 💬 Ask me about **Offensive Security, Vulnerability Research, Penetration Testing, and Bug Bounty Hunting**
 
