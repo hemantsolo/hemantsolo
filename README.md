@@ -56,29 +56,11 @@
 🔹 IDA Pro, Ghidra  
 🔹 OpenVAS, Nessus  
 
-**Source Code & Supply Chain tools:**  
-🔹 Git / GitHub / GitLab CI pipelines  
-🔹 Static Application Security Testing (SAST): SonarQube, Semgrep, CodeQL  
-🔹 Dynamic Analysis & SCA: OWASP Dependency-Check, Snyk, WhiteSource, Dependabot  
-🔹 Container & Image Scanning: Trivy, Clair, Anchore  
-🔹 SBOM & Provenance: Syft, CycloneDX, SPDX, Sigstore (cosign/rekor)  
-🔹 Build/CI hardening: in-toto, TUF, secure CI configurations
-
 ### 📜 Certifications
 🔹 CEH - Master (Certified Ethical Hacker - Master)  
 🔹 eJPT (Junior Penetration Tester)  
 🔹 eCPPT (Certified Professional Penetration Tester)  
 🔹 eWPTX (Web Application Penetration Tester eXtreme)
-
----
-
-## 🔎 Source Code Analysis & Supply Chain (SCA) — What I do
-- Perform **static** and **dynamic** code analysis to identify logic flaws, insecure patterns, hardcoded secrets, and unsafe dependencies.  
-- Build and integrate SAST and SCA tooling into CI/CD pipelines to catch issues early (e.g., Semgrep/CodeQL + Snyk/Dependabot).  
-- Generate and validate **SBOMs (Software Bill of Materials)** to track components and their provenance.  
-- Scan container images, OSS dependencies, and artifact registries for known vulnerabilities and misconfigurations (Trivy, Clair).  
-- Assess supply chain risks: malicious or vulnerable third-party libraries, compromised CI, insecure build artifacts, and dependency confusion.  
-- Recommend mitigation: dependency upgrades, patching strategies, secure build signing (Sigstore/cosign), and CI hardening (in-toto/TUF).
 
 ---
 
